@@ -6,4 +6,8 @@ Data Science basics with Python and R. Notes on how to do Data Analysis, Data Vi
 
 ### Data Analysis
 
-Notes on the most popular Data Science packages in Python: NumPy and pandas
+Notes and exercises on the most popular Data Science packages in Python: NumPy and pandas
+
+### Data Visualization
+
+Notes and exercises on the most popular Data Visualization packages in Python: Matplotlib, Seaborn, pandas built-in, Plotly, Cufflinks, and geographical plotting
